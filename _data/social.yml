@@ -1,5 +1,4 @@
 # Using FontAwesome 5
-- name: Contact Me
 - name: <i class="fas fa-lg fa-envelope-square"></i>&nbsp;Email
   link: 'mailto:dunstanrm@gmail.com'
 - name: <i class="fab fa-lg fa-github-square"></i>&nbsp;GitHub
