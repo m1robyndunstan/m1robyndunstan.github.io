@@ -1,0 +1,21 @@
+#email:
+#  id: 'dunstanrm@gmail.com'
+#  href: 'mailto:'
+#  title: 'Email'
+#  fa-icon: 'fa-envelope-square'
+#github:
+#  id: 'm1robyndunstan'
+#  href: 'https://github.com/'
+#  title: 'GitHub'
+#  fa-icon: 'fa-github-square'
+#linkedin:
+#  id: 'robyn-dunstan-32b24b55'
+#  href: 'https://www.linkedin.com/in/'
+#  title: 'LinkedIn'
+#  fa-icon: 'fa-linkedin'
+- name: Email
+  link: 'mailto:dunstanrm@gmail.com'
+- name: GitHub
+  link: 'https://github.com/m1robyndunstan'
+- name: LinkedIn
+  link: 'https://www.linkedin.com/in/robyn-dunstan-32b24b55'

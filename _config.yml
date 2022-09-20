@@ -29,6 +29,7 @@ github_username:  m1robyndunstan
 linkedin_username: robyn-dunstan-32b24b55
 paginate: 5
 paginate_path: "/blog/page:num"
+footer_menu: social
 
 # Build settings
 #theme: minima
