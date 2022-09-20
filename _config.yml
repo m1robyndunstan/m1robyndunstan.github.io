@@ -28,7 +28,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  m1robyndunstan
 linkedin_username: robyn-dunstan-32b24b55
 paginate: 5
-paginate_path: "/page:num"
+paginate_path: "/blog/page:num"
 
 # Build settings
 #theme: minima
