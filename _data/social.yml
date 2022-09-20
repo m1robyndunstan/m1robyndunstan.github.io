@@ -1,22 +1,7 @@
-#email:
-#  id: 'dunstanrm@gmail.com'
-#  href: 'mailto:'
-#  title: 'Email'
-#  fa-icon: 'fa-envelope-square'
-#github:
-#  id: 'm1robyndunstan'
-#  href: 'https://github.com/'
-#  title: 'GitHub'
-#  fa-icon: 'fa-github-square'
-#linkedin:
-#  id: 'robyn-dunstan-32b24b55'
-#  href: 'https://www.linkedin.com/in/'
-#  title: 'LinkedIn'
-#  fa-icon: 'fa-linkedin'
 # Using FontAwesome 5
-- name: <i class="fas fa-envelope-square"></i>&nbsp;Email
+- name: <i class="fas fa-2x fa-envelope-square"></i>&nbsp;Email
   link: 'mailto:dunstanrm@gmail.com'
-- name: <i class="fab fa-github-square"></i>&nbsp;GitHub
+- name: <i class="fab fa-2x fa-github-square"></i>&nbsp;GitHub
   link: 'https://github.com/m1robyndunstan'
-- name: <i class="fab fa-linkedin"></i>&nbsp;LinkedIn
+- name: <i class="fab fa-2x fa-linkedin"></i>&nbsp;LinkedIn
   link: 'https://www.linkedin.com/in/robyn-dunstan-32b24b55'
