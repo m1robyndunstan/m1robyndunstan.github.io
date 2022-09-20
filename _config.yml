@@ -56,3 +56,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Configuration values specific to Bulma Clean Theme
+theme_color: '#d81b60'
