@@ -28,13 +28,14 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  m1robyndunstan
 linkedin_username: robyn-dunstan-32b24b55
 show_excerpts: true
-theme_color: '#d81b60'
+#theme_color: '#d81b60'
 show_sidebar: true
 
 # Build settings
 #theme: minima
 #remote_theme: pages-themes/cayman@v0.2.0
 remote_theme: chrisrhymes/bulma-clean-theme
+theme_color: '#d81b60'
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
