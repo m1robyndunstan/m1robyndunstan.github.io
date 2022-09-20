@@ -13,9 +13,8 @@
 #  href: 'https://www.linkedin.com/in/'
 #  title: 'LinkedIn'
 #  fa-icon: 'fa-linkedin'
-- name: Email
+- name: <i class="fa-brand fa-envelope-square"></i>Email
   link: 'mailto:dunstanrm@gmail.com'
-  icon: 'fa-envelope-square'
 - name: GitHub
   link: 'https://github.com/m1robyndunstan'
 - name: LinkedIn
