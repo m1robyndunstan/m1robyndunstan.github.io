@@ -5,5 +5,6 @@
 layout: page
 title: Robyn's Musings
 theme_color: '#d81b60'
+show_sidebar: true
 ---
 # Hello World!
