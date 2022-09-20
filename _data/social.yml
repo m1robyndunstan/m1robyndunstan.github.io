@@ -13,7 +13,8 @@
 #  href: 'https://www.linkedin.com/in/'
 #  title: 'LinkedIn'
 #  fa-icon: 'fa-linkedin'
-- name: <i class="fa-solid fa-square-envelope"></i>Email
+# Using FontAwesome 5
+- name: <i class="fas fa-envelope-square"></i>Email
   link: 'mailto:dunstanrm@gmail.com'
 - name: GitHub
   link: 'https://github.com/m1robyndunstan'
