@@ -31,8 +31,8 @@ show_excerpts: true
 
 # Build settings
 #theme: minima
-#remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
