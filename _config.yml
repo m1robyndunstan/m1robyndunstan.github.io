@@ -31,7 +31,7 @@ show_excerpts: true
 
 # Build settings
 #theme: minima
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@0.13.1
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
