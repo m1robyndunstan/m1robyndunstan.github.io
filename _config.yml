@@ -29,6 +29,7 @@ github_username:  m1robyndunstan
 linkedin_username: robyn-dunstan-32b24b55
 show_excerpts: true
 theme_color: '#d81b60'
+show_sidebar: true
 
 # Build settings
 #theme: minima
