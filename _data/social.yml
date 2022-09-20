@@ -15,6 +15,7 @@
 #  fa-icon: 'fa-linkedin'
 - name: Email
   link: 'mailto:dunstanrm@gmail.com'
+  icon: 'fa-envelope-square'
 - name: GitHub
   link: 'https://github.com/m1robyndunstan'
 - name: LinkedIn
