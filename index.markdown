@@ -4,4 +4,5 @@
 
 layout: page
 title: Robyn's Musings
+show_sidebar: true
 ---
