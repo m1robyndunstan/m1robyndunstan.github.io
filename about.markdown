@@ -17,12 +17,12 @@ I have about 10 years of experience with a variety of computer languages and tec
 
 See some of my projects in [my other repositories](https://github.com/m1robyndunstan?tab=repositories)
 
-<br break="right" />
+<br clear="right" />
 
 ![Science](/assets/img/science.png){: .is-pulled-left .mr-6 style="max-width: 33%;"}
 I also have degrees in Mathematics and Physics. While I don't use this knowledge in my everyday job, it still has a great influence on me. To me, being a scientist isn't about how many facts one can memorize, but instead it's a way of thinking. 
 
-<br break="left" />
+<br clear="left" />
 
 ![Desktop View](/assets/img/caticorn.svg){: .is-pulled-right .ml-6 style="max-width: 33%;"}
 
@@ -43,4 +43,4 @@ I also enjoy doing crafts. Mostly, I crochet, though I occasionally dabble in ot
 
 And, then, there are my cats. They are my precious fur babies, and I love telling everyone stories about them. 
 
-<br break="right" />
+<br clear="right" />
