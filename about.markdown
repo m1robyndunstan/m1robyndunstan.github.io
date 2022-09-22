@@ -15,9 +15,7 @@ I have about 10 years of experience with a variety of computer languages and tec
  - Java
  - PowerOn
 
-See some of my projects <!-- make this a button -->
-
-<br clear="left" />
+See some of my projects in [my other repositories](https://github.com/m1robyndunstan?tab=repositories)
 
 ![Science](/assets/img/science.png){: .is-pulled-right .ml-6 style="max-width: 33%;"}
 I also have degrees in Mathematics and Physics. While I don't use this knowledge in my everyday job, it still has a great influence on me. To me, being a scientist isn't about how many facts one can memorize, but instead it's a way of thinking. 
@@ -32,13 +30,11 @@ I enjoy science fiction and fantasy stories, especially with good worldbuilding.
  - [Brandon Sanderson](https://www.brandonsanderson.com/)
  - [Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)
  - [Yu-Gi-Oh](https://en.wikipedia.org/wiki/Yu-Gi-Oh!)
+
+![Desktop View](/assets/img/caticorn.svg){: style="max-width: 33%; float: left; margin-right: 3rem;"}
  
 There may be the occasional bit of my own worldbuilding or fanfiction appearing here, too.
 
-![Desktop View](/assets/img/caticorn.svg){: style="max-width: 33%; float: left; margin-right: 3rem;"}
+I also enjoy doing crafts. Mostly, I crochet, though I occasionally dabble in other activities. 
 
-Any space not filled with books is covered in cat toys. My fur babies are my pride and joy.
-
-<!-- Cats -->
-
-<!-- Crafts/Crochet/3D Printing -->
+And, then, there are my cats. They are my precious fur babies, and I love telling everyone stories about them. 
