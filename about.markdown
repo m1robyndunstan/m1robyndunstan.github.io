@@ -11,12 +11,12 @@ permalink: /about/
 I have about 10 years of experience with a variety of computer languages and technologies. The ones I've worked with most recently are listed below. I'm always interested in learning new computer languages and programming technigues.
 
 - Frontend
-  - JavaScript
-  - Angular
+    - JavaScript
+    - Angular
 - Backend/Batch
-  - C#
-  - Java
-  - PowerOn
+    - C#
+    - Java
+    - PowerOn
   
 See some of my projects <!-- make this a link -->
 
