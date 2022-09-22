@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Desktop View](/assets/img/coding.png){: style="max-width: 33%; float: left; margin-right: 3rem;"}
+![Desktop View](/assets/img/coding.png){: .is-pulled-left .mr-3 style="max-width: 33%;"}
 # Robyn Dunstan
 ## Software Developer
 
