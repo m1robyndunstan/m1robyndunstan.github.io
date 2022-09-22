@@ -21,22 +21,9 @@ See some of my projects <!-- make this a button -->
 <br clear="left" />
 
 ![Science](/assets/img/science.png){: .is-pulled-right .ml-6 style="max-width: 33%;"}
-I also have degrees in Mathematics and Physics. While I don't use this knowledge in my everyday job, it still greatly influences the way I think. 
+I also have degrees in Mathematics and Physics. While I don't use this knowledge in my everyday job, it still has a great influence on me. To me, being a scientist isn't about how many facts one can memorize, but instead it's a way of thinking. 
 
-<br />
-<br />
-<br />
 ![Desktop View](/assets/img/caticorn.svg){: style="max-width: 33%; float: left; margin-right: 3rem;"}
-# Robyn Dunstan
-## Software Developer
-
-- Computer Languages
-  - Java
-  - JavaScript
-  - PowerOn
-  - C++
-  
-I'm a computer programmer with 5+ years experience, mostly in back-end programming. I've worked in a variety of languages, with the most recent ones listed above. I'm always interested in learning new computer languages and programming technigues.
 
 My bookshelves are overflowing with science fiction and fantasy novels. Any space not filled with books is covered in cat toys. My fur babies are my pride and joy.
 
