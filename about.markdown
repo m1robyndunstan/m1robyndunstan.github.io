@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![Desktop View](/assets/img/coding.png){: .is-pulled-left .mr-6 style="max-width: 33%;"}
+![She Codes](/assets/img/coding.png){: .is-pulled-left .mr-6 style="max-width: 33%;"}
 # Robyn Dunstan
 ## Software Developer
 
@@ -16,7 +16,7 @@ I have about 10 years of experience with a variety of computer languages and tec
  - Java
  - PowerOn
  
-&nbsp;{: .is-clearfix }
+<br clear="left" />
   
 See some of my projects <!-- make this a link -->
 
