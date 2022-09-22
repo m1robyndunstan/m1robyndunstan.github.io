@@ -15,10 +15,13 @@ I have about 10 years of experience with a variety of computer languages and tec
  - C#
  - Java
  - PowerOn
- 
+
+See some of my projects <!-- make this a button -->
+
 <br clear="left" />
-  
-See some of my projects <!-- make this a link -->
+
+![Science](/assets/img/science.png){: .is-pulled-right .ml-6 style="max-width: 33%;"}
+I also have degrees in Mathematics and Physics. While I don't use this knowledge in my everyday job, it still greatly influences the way I think. 
 
 <br />
 <br />
