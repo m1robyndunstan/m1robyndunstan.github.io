@@ -3,13 +3,13 @@ layout: page
 title: About
 permalink: /about/
 ---
-
+<div>
 ![Desktop View](/assets/img/coding.png){: .is-pulled-left .mr-3 style="max-width: 33%;"}
 # Robyn Dunstan
 ## Software Developer
 
 I have about 10 years of experience with a variety of computer languages and technologies. The ones I've worked with most recently are listed below. I'm always interested in learning new computer languages and programming technigues.
-
+</div>
 - Frontend
   - JavaScript
   - Angular
