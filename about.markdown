@@ -22,6 +22,10 @@ See some of my projects in [my other repositories](https://github.com/m1robyndun
 ![Science](/assets/img/science.png){: .is-pulled-left .mr-6 style="max-width: 33%;"}
 I also have degrees in Mathematics and Physics. While I don't use this knowledge in my everyday job, it still has a great influence on me. To me, being a scientist isn't about how many facts one can memorize, but instead it's a way of thinking. 
 
+<br break="left" />
+
+![Desktop View](/assets/img/caticorn.svg){: .is-pulled-right .ml-6 style="max-width: 33%;"}
+
 I enjoy science fiction and fantasy stories, especially with good worldbuilding. Some of my favorites, in no particular order:
 
  - [Star Wars](https://en.wikipedia.org/wiki/Star_Wars)
@@ -32,10 +36,6 @@ I enjoy science fiction and fantasy stories, especially with good worldbuilding.
  - [Brandon Sanderson](https://www.brandonsanderson.com/)
  - [Sailor Moon](https://en.wikipedia.org/wiki/Sailor_Moon)
  - [Yu-Gi-Oh](https://en.wikipedia.org/wiki/Yu-Gi-Oh!)
- 
-<br break="left" />
-
-![Desktop View](/assets/img/caticorn.svg){: .is-pulled-right .ml-6 style="max-width: 33%;"}
  
 There may be the occasional bit of my own worldbuilding or fanfiction appearing here, too.
 
