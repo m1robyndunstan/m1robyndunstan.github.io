@@ -70,4 +70,42 @@ about them.
       </div>
 	  </div>
   </div>
+  
+  <div class="column is-4-desktop is-6-tablet">
+	  <div class="card">
+      <div class="card-image">
+        <figure class="image is-16by9">
+          <img src="/assets/img/ferris.jpg" alt="Ferris gray tabby cat" />
+        </figure>
+      </div>
+      <div class="card-content">
+        <p class="title is-4">Ferris</p>
+        <p class="title is-5">Born September, 2016</p>
+        <p class="title is-5">Adopted July, 2020</p>
+        <div class="content">
+          Ferris is a little ninja. He zooms around the apartment and up and down the cat trees. He 
+          even balances on top of doors. Ferris loves wrestling with and chasing his brother. 
+        </div>
+      </div>
+	  </div>
+  </div>
+  
+  <div class="column is-4-desktop is-6-tablet">
+	  <div class="card">
+      <div class="card-image">
+        <figure class="image is-16by9">
+          <img src="/assets/img/eclipse.jpg" alt="Eclipse black cat" />
+        </figure>
+      </div>
+      <div class="card-content">
+        <p class="title is-4">Eclipse</p>
+        <p class="title is-5">Born October, 2014</p>
+        <p class="title is-5">Adopted November, 2015</p>
+        <div class="content">
+          Eclipse showed up at my door the night before Halloween and begged to be adopted. His 
+          favorite activities are eating and doing &quot;happy feet&quot;. 
+        </div>
+      </div>
+	  </div>
+  </div>
 </div>
