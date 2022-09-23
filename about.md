@@ -51,26 +51,7 @@ about them.
 
 <br clear="right" />
 
-<div class="columns is-multiline">
-  <div class="column is-4-desktop is-6-tablet">
-	  <div class="card">
-      <div class="card-image">
-        <figure class="image is-16by9">
-          <img src="/assets/img/ferris.jpg" alt="Ferris gray tabby cat" />
-        </figure>
-      </div>
-      <div class="card-content">
-        <p class="title is-4">Ferris</p>
-        <p class="title is-5">Born </p>
-        <p class="title is-5">Adopted </p>
-        <div class="content">
-          Ferris is a little ninja. He zooms around the apartment and up and down the cat trees. He 
-          even balances on top of doors. Ferris loves wrestling with and chasing his brother. 
-        </div>
-      </div>
-	  </div>
-  </div>
-  
+<div class="columns is-multiline">  
   <div class="column is-4-desktop is-6-tablet">
 	  <div class="card">
       <div class="card-image">
@@ -103,7 +84,7 @@ about them.
         <p class="title is-5">Adopted November, 2015</p>
         <div class="content">
           Eclipse showed up at my door the night before Halloween and begged to be adopted. His 
-          favorite activities are eating and doing &quot;happy feet&quot;. 
+          favorite activities are eating, doing &quot;happy feet&quot; and snuggling with me. 
         </div>
       </div>
 	  </div>
