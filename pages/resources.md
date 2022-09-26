@@ -27,3 +27,53 @@ menubar_toc: true
 - [Angular](https://angular.io/)
     - [Tutorial: Tour of Heroes](https://angular.io/tutorial)
     - [Angular Material](https://material.angular.io/)
+- RxJs
+    - [Learn RxJs](https://www.learnrxjs.io/)
+
+# Programming Tools
+
+## Code Repository
+
+- [GitHub](https://github.com/)
+- [Git](https://git-scm.com/)
+- [Blackbox](https://github.com/StackExchange/blackbox/blob/master/README.md)
+
+## Documentation
+
+- [Mermaid Diagram Live Editor](https://mermaid-js.github.io/mermaid-live-editor/edit/#pako:eNpVkE1qw0AMha8itEohvoAXhcZOsgmk0Ow8WQiPnBmS-WEsU4Ltu3ccU2i1kt77nhAasQ2ascRbomjgUisPuT6ayiTbi6P-CkXxPh1ZwAXPzwl2m2OA3oQYrb-9rfxugaAaTwvGIMb6-7xa1St_9jxB3ZwoSojXv87lO0ywb-ynyev_OyZxTh2ajsqOipYSVJReCG7RcXJkdT59XBSFYtixwjK3mjsaHqJQ-TmjQ9QkvNdWQsJS0sBbpEHC19O3v_PK1JbyI9wqzj8k-lxH)
+- [Swagger](https://swagger.io/)
+
+## Commandline
+
+- [Node.js](https://nodejs.org/en/)
+- [Node Package Manager (NPM)](https://www.npmjs.com/)
+- [Node Version Manager (NVM) for Windows](https://github.com/coreybutler/nvm-windows)
+
+## Containerization
+
+- [Docker](https://hub.docker.com/)
+
+# Coding Puzzles
+
+- [Advent of Code](https://adventofcode.com/)
+  
+# Design
+  
+## Fonts
+
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+
+## Graphics
+
+- [Creative Commons](https://wordpress.org/openverse/)
+- [Unsplash](https://unsplash.com/)
+- [Pixabay](https://pixabay.com/)
+- [OpenClipArt](https://openclipart.org/)
+
+## Random and Placeholder Data
+
+- [Fake Name Generator](https://www.fakenamegenerator.com/)
+- [PlaceKitten](https://placekitten.com/)
+- [Random.org](https://www.random.org/)
+- [Cat Ipsum](http://www.catipsum.com/index.php)
