@@ -3,7 +3,7 @@ layout: post
 title:  "Design an Escape Room"
 date:   2022-09-27
 author: Robyn
-categories: escape-room christmas
+tags: escape-room christmas
 published: true
 ---
 This year, for the extended family Christmas party, we decided to play games instead of exchange presents. I had the idea of creating a Christmas themed escape room that we could all solve together. 
