@@ -53,6 +53,11 @@ menubar_toc: true
 
 - [Docker](https://hub.docker.com/)
 
+## IDE
+
+- [Eclipse](https://www.eclipse.org/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+
 # Coding Puzzles
 
 - [Advent of Code](https://adventofcode.com/)
@@ -76,4 +81,10 @@ menubar_toc: true
 - [Fake Name Generator](https://www.fakenamegenerator.com/)
 - [PlaceKitten](https://placekitten.com/)
 - [Random.org](https://www.random.org/)
-- [Cat Ipsum](http://www.catipsum.com/index.php)
+- [Cat Ipsum](http://www.catipsum.com/index.php) 
+
+## 3D Models
+
+- [Scan the World](https://www.myminifactory.com/scantheworld/)
+- [Thingiverse](https://www.thingiverse.com/) 
+- [Printables](https://www.printables.com/)
