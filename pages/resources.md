@@ -28,11 +28,9 @@ menubar_toc: true
     - [Tutorial: Tour of Heroes](https://angular.io/tutorial)
     - [Angular Material](https://material.angular.io/)
 - [Learn RxJs](https://www.learnrxjs.io/)
-    
-#### Jekyll
-
-- [Bulma Clean Theme](https://github.com/chrisrhymes/bulma-clean-theme)
-- [Bulma Documentation](https://bulma.io/documentation/overview/start/)
+- [Jekyll](https://jekyllrb.com/docs/)
+    - [Bulma Clean Theme](https://github.com/chrisrhymes/bulma-clean-theme)
+    - [Bulma Documentation](https://bulma.io/documentation/overview/start/)
     
 ### Object Oriented Languages
 
