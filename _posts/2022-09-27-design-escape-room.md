@@ -27,7 +27,7 @@ From my research, I developed the following parameters for the finished game:
 - The game should consist of 5 - 6 puzzles
 - The puzzles should be elementary school difficulty level so the kids can participate (and because
  the adults have never played an escape room)
-- I do not want to buy a bunch of locks or build a program to verify correct answers. Whether the 
+- I do not want to buy a bunch of locks or type into a phone to verify the correct answer. Whether the 
  answer is correct or not needs to be obvious from the puzzle itself. 
 - Similar to the above, the materials to create the puzzles need to be easily available, either in 
  my existing crafting supplies or printed from the computer.
