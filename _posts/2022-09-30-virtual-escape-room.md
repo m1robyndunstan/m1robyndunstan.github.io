@@ -61,6 +61,6 @@ Just having a paragraph of text to read didn't seem like enough of a reward for 
 
 # Deployment
 
-Now, to share my nifty new website. For my previous game, it would run from just opening the built HTML file. Not so for this one. This site required being deployed to a server to work properly. I spent quite a while trying to find build settings that would make it work. Then, I discovered GitHub Pages. 
+Now, to share my nifty new website. For my previous game, it would run from just opening the built HTML file. Not so for this one. This site required being deployed to a server to work properly. I spent quite a while trying to find build settings that would make it work. Then, I discovered GitHub Pages... 
 
-<a href="https://m1robyndunstan.github.io/VirtualEscapeRooms/" class="is-fullwidth is-link">Click here to play my virtual escape room</a>
+[Click here to play my virtual escape room](https://m1robyndunstan.github.io/VirtualEscapeRooms/)
