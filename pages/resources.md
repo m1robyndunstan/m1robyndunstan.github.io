@@ -88,6 +88,9 @@ menubar_toc: true
 - [Unsplash](https://unsplash.com/)
 - [Pixabay](https://pixabay.com/)
 - [OpenClipArt](https://openclipart.org/)
+- [IconFinder](https://www.iconfinder.com/free_icons)
+- [Flaticon](https://www.flaticon.com/)
+- [OpenGameArt.org](https://opengameart.org/)
 
 ### Random and Placeholder Data
 
